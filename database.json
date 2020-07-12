@@ -2156,6 +2156,13 @@
     "desc": "A simple web framework for deno.",
     "default_version": "master"
   },
+  "figlet": {
+    "type": "github",
+    "owner": "denyncrawford",
+    "repo": "deno-figlet",
+    "desc": "A Deno :sauropod: Figlet from text generato",
+    "default_version": "master"
+  },
   "file_chunk": {
     "type": "github",
     "owner": "ClementD64",
